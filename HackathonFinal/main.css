@@ -1,0 +1,33 @@
+.example {
+           background-color: #ffcce6;
+         }
+
+.home {
+        background-color: #dbeffc;
+      }         
+
+.about {
+         background-color: 	hsl(177, 100%, 80%);
+       }
+       
+.predict {
+            background-color: white;
+            display: flex;
+            justify-content: center;
+         }
+
+.gallery {
+           background-color: #ccfff2;
+         }
+
+.contact {
+           background-color: #ff99bb;
+         }
+
+.team {
+         background-color: #ffcccc;
+      }         
+
+      .g2 {
+            background-color: #E6E6FA;
+      }
